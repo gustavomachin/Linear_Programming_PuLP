@@ -1,1 +1,2 @@
-# Linear_Programming_PuLP
+# Linear Programming PuLP
+Python Jupyter Notebooks for Linear Programming using the PuLP 
